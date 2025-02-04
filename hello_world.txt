@@ -1,0 +1,1 @@
+This is me learning Git, and how to become a better Software developer using The Odin Project [TOP].
